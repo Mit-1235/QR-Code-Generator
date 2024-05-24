@@ -1,7 +1,6 @@
 *{
     box-sizing: border-box;
     margin: 0px;
-    /* font-family: "Poppins", sans-serif; */
 }
 body{
     background-color: rgb(8, 0, 33);
@@ -70,8 +69,6 @@ p{
         transform: translateX(0);
     }
 }
-
-
 
 
 
